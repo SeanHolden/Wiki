@@ -12,3 +12,5 @@ Collection of wikis containing helpful info that I've learned along the way:
 * [Redis](https://github.com/SeanHolden/Wiki/wiki/Redis)
 
 * [MongoDB](https://github.com/SeanHolden/Wiki/wiki/MongoDB) 
+
+* [Installing Old Versions of things from Homebrew](https://github.com/SeanHolden/Wiki/wiki/Install-specific-version-of-software-using-mac-homebrew)
